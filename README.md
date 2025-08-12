@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Daniel Schardosin, natural do Paraná, Brasil, e atuo na área de desenvolvimento de software com uma base sólida em análise de sistemas. Possuo formação técnica em análise de sistemas e estou complementando meus estudos com cursos especializados na Udemy, focando em aprimorar habilidades práticas e teóricas para me manter atualizado no dinâmico campo da tecnologia.
-
-No dia a dia, trabalho com linguagens como VB .NET em projetos profissionais, enquanto aprofundo meu conhecimento em GDscript para desenvolvimento de jogos, C# para aplicações robustas e Java em contextos acadêmicos e experimentais. Além disso, tenho experiência em design web com HTML e CSS, adquirida inicialmente de forma acadêmica e refinada por meio de cursos dedicados e projetos pessoais, o que me permite criar interfaces intuitivas e responsivas.
-
-Na área de gráficos e visuais, utilizo ferramentas como Blender para modelagem 3D, Krita para arte digital e Photoshop para edições pontuais, integrando esses elementos em workflows criativos que unem programação e design. Recentemente, iniciei um canal no YouTube onde compartilho conteúdos sobre desenvolvimento, começando com um vídeo detalhado sobre o processo de criação de um jogo 3D na Godot Engine – uma forma de documentar meu aprendizado e contribuir com a comunidade.
+Olá! Sou Daniel Schardosin, do Paraná, Brasil, com formação técnica em análise de sistemas e estudos complementares na Udemy. 
+Atuo profissionalmente com VB .NET, enquanto aprofundo GDscript, C# e Java em projetos acadêmicos e pessoais. 
+Também exploro design web com HTML e CSS, habilidades refinadas por cursos e projetos próprios, além de compartilhar meu aprendizado no YouTube, onde publiquei meu primeiro vídeo sobre desenvolvimento de um jogo 3D na Godot Engine.
+Na área de gráficos, utilizo Blender para modelagem 3D, Krita para arte digital e Photoshop para edições, integrando programação e design em meus projetos.
