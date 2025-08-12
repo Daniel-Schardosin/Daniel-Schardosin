@@ -51,6 +51,14 @@ Na área de gráficos, utilizo Blender para modelagem 3D, Krita para arte digita
 />
 <img 
     align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -73,4 +81,3 @@ Na área de gráficos, utilizo Blender para modelagem 3D, Krita para arte digita
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
-          
